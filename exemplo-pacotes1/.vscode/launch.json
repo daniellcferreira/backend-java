@@ -1,0 +1,35 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SistemaIbge",
+      "request": "launch",
+      "mainClass": "exemplo.SistemaIbge",
+      "projectName": "exemplo-pacotes1_2391f9c8"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "SistemaCadastro",
+      "request": "launch",
+      "mainClass": "defaultPackage.SistemaCadastro",
+      "projectName": "exemplo-pacotes1_2391f9c8"
+    },
+    {
+      "type": "java",
+      "name": "Escola",
+      "request": "launch",
+      "mainClass": "escola.Escola",
+      "projectName": "exemplo-pacotes1_2391f9c8"
+    }
+  ]
+}
