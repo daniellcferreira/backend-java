@@ -1,4 +1,16 @@
-public class Salesman extends Employee {
+public non-sealed class Salesman extends Employee {
+
+  public Salesman(String code, String name, String address, int age, double salary) {
+    super(code, name, address, age, salary);
+  }
+
+  @Override
+  public String getCode() {
+    return "SL" + super.getCode();
+  }
+
+  public Salesman() {
+  }
 
   private double percentPerSold;
 
