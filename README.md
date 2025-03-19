@@ -1,4 +1,15 @@
 # Backend Java DIO
+![Java](https://img.shields.io/badge/Java-Backend%20Development-007396?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Web%20Framework-6DB33F?style=flat-square&logo=springboot)
+![Maven](https://img.shields.io/badge/Maven-Build%20Tool-C71A36?style=flat-square&logo=maven)
+![Mockito](https://img.shields.io/badge/Mockito-Testing-25B7A6?style=flat-square&logo=mockito)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql)
+![JUnit](https://img.shields.io/badge/JUnit-Testing-25A162?style=flat-square&logo=junit)
+![Swagger](https://img.shields.io/badge/Swagger-API%20Documentation-85EA2D?style=flat-square&logo=swagger)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git)
+![H2](https://img.shields.io/badge/H2-Database-1C4B2E?style=flat-square&logo=h2)
+
 
 Este repositório contém projetos e exercícios desenvolvidos durante o curso de Backend em Java oferecido pela Digital Innovation One (DIO) em parceria com o Santander.
 
